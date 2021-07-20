@@ -8,19 +8,19 @@
 <p align="center"><b> You can Contact me by <a href="https://github.com/NiTRONDC">NiTRONDC</a> </b> </p>
 <p align="center">
   <a href="https://github.com/NiTRONDC"> 
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shantk18" />
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NiTRONDC" />
   </a>
 </p>
 </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"> <a href="https://twitter.com/shantk18" target="blank"><img src="https://img.shields.io/twitter/follow/shantk18?color=%23FFD523&label=Follow%20me%20%40shantk18&logo=Twitter&logoColor=%23FFD523&style=for-the-badge" alt="shantk18" /></a> </p>
+<p align="center"> <a href="https://github.com/NiTRONDC" target="blank"><img src="https://img.shields.io/twitter/follow/shantk18?color=%23FFD523&label=Follow%20me%20%40shantk18&logo=Twitter&logoColor=%23FFD523&style=for-the-badge" alt="NiTRONDC" /></a> </p>
 
 <p align="center">
-<a href="https://codepen.io/tks-18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tks-18" height="30" width="40" /></a>
-<a href="https://dev.to/tks18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tks18" height="30" width="40" /></a>
-<a href="https://twitter.com/shantk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantk18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shantk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantk18" height="30" width="40" /></a>
+<a href="https://codepen.io/tks-18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="NiTRONDC" height="30" width="40" /></a>
+<a href="https://dev.to/tks18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="NiTRONDC" height="30" width="40" /></a>
+<a href="https://twitter.com/shantk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NiTRONDC" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shantk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NiTRONDC" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shan-tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shan-tk" height="30" width="40" /></a>
 <a href="https://codesandbox.com/tks18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="tks18" height="30" width="40" /></a>
 <a href="https://instagram.com/shantk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shantk18" height="30" width="40" /></a>
