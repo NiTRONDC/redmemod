@@ -5,9 +5,9 @@
 
 <p align="center">
 <p align="center"><b> My Portfolio - <a href="https://github.com/NiTRONDC">NiTRONDC</a> </b> </p>
-<p align="center"><b> You can Contact me by <a href="mailto:hello@sudharshan.tk">hello@sudharshan.tk</a> </b> </p>
+<p align="center"><b> You can Contact me by <a href="https://github.com/NiTRONDC">NiTRONDC</a> </b> </p>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/shantk18"> 
+  <a href="https://github.com/NiTRONDC"> 
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shantk18" />
   </a>
 </p>
