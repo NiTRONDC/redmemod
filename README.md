@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"> <a href="https://github.com/NiTRONDC" target="blank"><img src="https://img.shields.io/twitter/follow/NiTRONDC?color=%23FFD523&label=Follow%20me%20%40NiTRONDC&logo=Twitter&logoColor=%23FFD523&style=for-the-badge" alt="NiTRONDC" /></a> </p>
+
 
 <p align="center">
 <a href="https://github.com/NiTRONDC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="NiTRONDC" height="30" width="40" /></a>
